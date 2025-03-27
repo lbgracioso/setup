@@ -50,7 +50,7 @@ This shellscript installs most of the software I use on my Linux for development
 The script warns about the next to-dos at the end of installation.
 
 ## Disclaimer
-This script was tailoredd to my personal setup and preferences. Use them at your own risk and review them before executing on your system.
+This script was tailored to my personal setup and preferences. Use them at your own risk and review them before executing on your system.
 
 ## License
 This repository is distributed under the terms of the GNU General Public License, version 3 or later. See the [LICENSE file](LICENSE) for details.
