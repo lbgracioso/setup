@@ -34,7 +34,6 @@ installFlatpakApps()
     "org.telegram.desktop"
     "net.lutris.Lutris"
     "rest.insomnia.Insomnia"
-    "org.mozilla.Thunderbird"
   )
 
   for app in "${apps[@]}"; do
@@ -57,7 +56,7 @@ installWorkOps()
 installWorkDev()
 {
   echo "Installing work dev tools..."
-  dnf -y install gcc-c++ cmake gdb nodejs
+  dnf -y install gcc-c++ cmake gdb
 }
 
 installWork()
