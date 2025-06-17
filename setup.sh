@@ -34,6 +34,8 @@ installFlatpakApps()
     "org.telegram.desktop"
     "net.lutris.Lutris"
     "rest.insomnia.Insomnia"
+    "org.mozilla.Thunderbird"
+    "md.obsidian.Obsidian"
   )
 
   for app in "${apps[@]}"; do
