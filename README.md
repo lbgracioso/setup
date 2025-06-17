@@ -24,6 +24,7 @@ This shellscript installs most of the software I use on my Linux for development
 | Lutris                     | Flatpak            |
 | Insomnia                   | Flatpak            |
 | Thunderbird                | Flatpak            |
+| Obsidian                   | Flatpak            |
 
 ### Packages
 
