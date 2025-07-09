@@ -36,6 +36,9 @@ installFlatpakApps()
     "rest.insomnia.Insomnia"
     "org.mozilla.Thunderbird"
     "md.obsidian.Obsidian"
+    "org.onlyoffice.desktopeditors"
+    "io.github.alainm23.planify"
+    "org.keepassxc.KeePassXC"
   )
 
   for app in "${apps[@]}"; do

@@ -25,6 +25,9 @@ This shellscript installs most of the software I use on my Linux for development
 | Insomnia                   | Flatpak            |
 | Thunderbird                | Flatpak            |
 | Obsidian                   | Flatpak            |
+| OnlyOffice                 | Flatpak            |
+| Planify                    | Flatpak            |
+| KeePassXC                  | Flatpak            |
 
 ### Packages
 
