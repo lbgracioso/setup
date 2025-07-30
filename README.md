@@ -26,6 +26,7 @@ This shellscript installs most of the software I use on my Linux for development
 | Thunderbird                | Flatpak            |
 | Obsidian                   | Flatpak            |
 | OnlyOffice                 | Flatpak            |
+| LibreOffice                | Flatpak            |
 | Planify                    | Flatpak            |
 | KeePassXC                  | Flatpak            |
 
