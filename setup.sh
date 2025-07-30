@@ -37,6 +37,7 @@ installFlatpakApps()
     "org.mozilla.Thunderbird"
     "md.obsidian.Obsidian"
     "org.onlyoffice.desktopeditors"
+    "org.libreoffice.LibreOffice"
     "io.github.alainm23.planify"
     "org.keepassxc.KeePassXC"
   )
